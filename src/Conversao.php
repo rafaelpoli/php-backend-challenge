@@ -3,7 +3,7 @@
 namespace App;
 
 class Conversor {
-    public $simboloMoedas = array(
+    public $simboloMoeda = array(
         'BRL' => 'R$',
         'USD' => 'USD',
         'EUR' => '€'
